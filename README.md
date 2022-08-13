@@ -17,6 +17,10 @@ Improvements over `i3-alternating-layouts`:
 
 Grab a binary from [releases](https://github.com/chmln/i3-auto-layout/releases) OR `cargo install --git https://github.com/chmln/i3-auto-layout`
 
+**To install from fork:**
+
+`cargo install --git https://github.com/kwmiebach/i3-auto-layout`
+
 Then somewhere in your i3 config
 
 ```
